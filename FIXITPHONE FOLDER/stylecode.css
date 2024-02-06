@@ -1,0 +1,37 @@
+body {
+  background-color: #122e3c;
+  justify-content: center;
+  align-items: center;
+}
+
+.p-total {
+  text-align: center;
+  color: #fdf8ef;
+}
+
+.options {
+  display: none;
+  text-align: center;
+}
+
+.show-options .options {
+  display: block;
+}
+
+.samodel {
+  color: #4184f7;
+  text-align: center;
+}
+
+.samsungat,
+.samsungat-1 {
+  margin: 0 auto; /* Center horizontally */
+  height: 400px;
+  width: 430px;
+  border: 1px solid #b8b3b3;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
